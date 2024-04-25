@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author online
+ *
+ */
+module myproj {
+}
